@@ -119,7 +119,7 @@ La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găs
 
 ## Cazuri în care nu poți efectua jobul  
  
-- Ai epuiat durabilitatea târnăcopului, acesta se va distruge automat și nu vei mai putea mina pietre.
+- Ai epuizat durabilitatea târnăcopului, acesta se va distruge automat și nu vei mai putea mina pietre.
 ::: details Târnăcop epuizat  
  <Image src="https://i.imgur.com/c67aVXW.png" alt="Târnăcop epuizat" />
 :::
@@ -129,7 +129,7 @@ La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găs
  <Image src="https://i.imgur.com/L6ut45T.png" alt="Abandon vehicul" />  
 :::  
 
-- Dacă mori, tura de job este anulată instant și pierdeți orice progres din vehiculul Bison.  
+- Dacă mori, tura de job este anulată instant și pierdeți orice progres din vehiculul Caracara 4x4.  
 ::: details Moarte în timpul jobului  
  <Image src="https://i.imgur.com/9oNK7SN.png" alt="Moarte job Miner" />  
 :::  
