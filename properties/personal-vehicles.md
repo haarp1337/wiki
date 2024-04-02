@@ -141,7 +141,7 @@ Special thanks to SFN.
 
 ## Modificarea unui vehicul personal
 
-Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elicoptere și bărci).
+Pe server ai posibilitatea de a-ți modifica vehiculele personale (mașini, elicoptere și bărci).
 
 | Iconiță specifică | Tip | Zone geografice |
 | :-----------: | :-----------: | :-----------: |
