@@ -18,7 +18,7 @@ Lucrul la un job de pescuit în adâncime (Deep Sea Fishing) poate fi o experien
 
 ## Desfășurarea jobului
 
-Deep Sea Fishing introduce o noua mecanica de pescuit. Tot ce ai nevoie este să deții o barcă personala. Jucătorii nu au nevoie de undita sau alte consumabile. Jobul poate fi practicat de către toți jucătorii cu minim level 10.
+Deep Sea Fishing introduce o noua mecanica de pescuit. Tot ce ai nevoie este să deții o barcă personală. Jucătorii nu au nevoie de undita sau alte consumabile. Jobul poate fi practicat de către toți jucătorii cu minim level 10.
 
 ## Întrebări frecvente
 
@@ -30,7 +30,7 @@ Odată ajuns la locația NPC-ului Deep Sea Fishing, interacționează cu el folo
   <Image src="https://i.imgur.com/WwKbrhV.gif" alt="Start Job" width="800" height="600" />
 :::  
 
-#### Barcile cu care poti practica Deep Sea Fishing
+#### Bărcile cu care poți practica Deep Sea Fishing
 
 | Numele | Capacitatea | Pret |
 | :----: | :---------: | :--: |
