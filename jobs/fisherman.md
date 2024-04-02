@@ -78,9 +78,9 @@ După ce am echipat undița într-un fast slot din inventar, apăsăm tasta resp
   <Image src="https://i.imgur.com/iEIXiwt.png" alt="Exemplu minigame" />
 :::  
 
-Vom apăsa din nou tasta `SPACE` atunci când indicatorul devine culoarea verde, însemnând că peștele a mușcat momeala. Pe această săgeata vor aparea cifrele 3, 2, 1, 0, care indică câte secunde mai avem până când peștele va scăpa din cârlig (ducând la **pierderea peștelui**). Dacă am reușit să apăsăm la momentul potrivit, va apărea un mini-game în partea din mijloc-jos a ecranului, unde trebuie ca jucatorul să apese tasta `SPACE` când indicatorul sub formă de pește se află în pătratul verde.
+Vom apăsa din nou tasta `SPACE` atunci când indicatorul devine culoarea verde, însemnând că peștele a mușcat momeala. Pe această săgeată vor aparea cifrele 3, 2, 1, 0, care indică câte secunde mai avem până când peștele va scăpa din cârlig (ducând la **pierderea peștelui**). Dacă am reușit să apăsăm la momentul potrivit, va apărea un mini-game în partea din mijloc-jos a ecranului, unde trebuie ca jucatorul să apese tasta `SPACE` când indicatorul sub formă de pește se află în pătratul verde.
 În funcție de undița folosită, există șanse ca peștele să scape din cârlig chiar dacă jucătorul a apăsat când trebuie.
-Pentru a putea vedea dacă peștele a fost prins sau nu, vei putea verifica notificarea plasată deasupra hărții, care va indica și ce fel de peste ai prins, dacă ai prins un obiect special sau dacă nu îndeplinești o cerință pentru a pescui.
+Pentru a putea vedea dacă peștele a fost prins sau nu, vei putea verifica notificarea plasată deasupra hărții, care va indica și ce fel de pește ai prins, dacă ai prins un obiect special sau dacă nu îndeplinești o cerință pentru a pescui.
 Fiecare pește prins ocupă un slot din inventarul jucătorului, alături de prețul acestuia dacă ținem cursorul mouse-ului pe el.
 
 ::: warning
