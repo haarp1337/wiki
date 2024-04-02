@@ -94,7 +94,7 @@ Pentru a fura banii de pe masă, trebuie să mergi în checkpoint-ul mov aflat �
  <Image src="https://i.imgur.com/riZWSxs.jpg" alt="rob7" />  
 :::
 
-Procesul acesta se va repeta și la cele 2 seifuri cu lingouri, va trebui să mergi în checkpoint-ul mov și să ții apăsata tasta 'E' până când bar-ul de sub procentele de furt se va umple.
+Procesul acesta se va repeta și la cele 2 seifuri cu lingouri, va trebui să mergi în checkpoint-ul mov și să ții apăsată tasta 'E' până când bar-ul de sub procentele de furt se va umple.
 
 ::: details Furatul lingourilor de aur / argint
  <Image src="https://i.imgur.com/uYbw2VC.gif" alt="rob8" />  
