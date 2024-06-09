@@ -223,7 +223,7 @@ Trebuie să existe și o răsplată după atâtea activități, nu-i așa? Ei bi
 
 ### Scoici
 
-Perlele sunt obținute în urma completării activității 'Scuba Diving' și vor putea fi folosite în obținere `Perlelor`.
+Scoicile sunt obținute în urma completării activității 'Scuba Diving' și vor putea fi folosite în obținere `Perlelor`.
 
 ### Perle
 
